@@ -1,1 +1,1 @@
-print('Masha')
+print('MashaS')
